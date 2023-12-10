@@ -1,0 +1,35 @@
+
+Oluwagbemi Akadiri
+Software Development and AI/ML Engineering Aspirant
+Killarney, County Kerry, Ireland
++353899758277 | likwidtv@gmail.com
+www.linkedin.com/in/oluwagbemi-akadiri-651669b7 | github.com/makiaveli1
+
+Summary:
+As a student intern at Code Institute, I am actively developing my front-end development skills and delving deeply into AI and ML technologies. My focus on Prompt Engineering for AI systems involves optimizing interactions with AI models, enhancing user experience and deepening my understanding of AI dynamics. With a Bachelor's degree in Computer Science from Zaporizhzhya National Technical University and over six years of technical support experience, I possess a strong foundation in Python, HTML, CSS, and JavaScript, and a passion for applying these skills in innovative AI projects.
+
+Experience:
+Student Intern - Code Institute (2021-Present)
+- Developing front-end development skills and specializing in Prompt Engineering for AI systems.
+- Engaging in practical application of AI/ML concepts in project-based learning.
+- Collaborating on projects involving Python, HTML, CSS, and JavaScript.
+
+Technical Support Specialist - Nextiva (2015-2021)
+- Provided technical support for cloud-based communication services.
+- Troubleshot and resolved complex issues, enhancing customer satisfaction.
+
+Technical Support Engineer - First Bridge (2013-2015)
+- Supported clients with web hosting and domain registration services.
+- Demonstrated strong problem-solving skills in a fast-paced environment.
+
+Education:
+Bachelor of Science in Computer Science - Zaporizhzhya National Technical University (2007-2011)
+- Specialized in Software Engineering and Web Development.
+- Completed coursework in AI fundamentals and machine learning.
+
+Projects:
+Julie-GPT: An interactive web-based chatbot using Django, designed to offer a unique conversational experience with user authentication and profile management, utilizing JavaScript for dynamic interaction and AJAX for asynchronous data handling.
+
+Julie: A state-of-the-art chatbot leveraging OpenAI's GPT-4, focused on providing personal friendship and support through engaging conversations, with an intuitive user interface and AI algorithms for nuanced responses.
+
+Julie-Autogen (Inferred): An advanced extension of the Julie projects using AutoGen framework, potentially enabling sophisticated multi-agent conversations and enhanced chatbot capabilities by integrating GPT-4 with AutoGen's conversational agents.
